@@ -7,5 +7,19 @@
       <FileName>Car.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="SimpleCSharpConsoleApp.Make">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Make.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleCSharpConsoleApp.SportsCar">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SportsCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
